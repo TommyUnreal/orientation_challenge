@@ -22,6 +22,6 @@ If `--no_metadata` option is not specified, the script generates a text file for
 - `Noise_level`: The percentage of non-white pixels in the generated image.
 
 ## Example
-To generate synthetic image data with compression factor 20, data ID 123, and output folder "./dowloaded_data", run the following command:
+To generate synthetic image data with compression factor 20, data ID 123, and output folder "./downloaded_data", run the following command:
 
-```data_downloader.exe --compression 20 --dataID 123 --output_folder "./dowloaded_data"```
+```data_downloader.exe --compression 20 --dataID 123 --output_folder "./downloaded_data"```
