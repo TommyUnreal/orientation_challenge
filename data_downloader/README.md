@@ -11,7 +11,7 @@ This tool generates synthetic image data based on the specified seed value. The 
 `--no_metadata`: (Optional) If specified, metadata for each image will not be generated.
 
 ## Output
-The script generates 20 PNG format images in the specified output folder. The filename format is `data_xxx.png`, where `xxx` is a zero-padded three-digit number.
+The script generates 25 PNG format images in the specified output folder. The filename format is `data_xxx.png`, where `xxx` is a zero-padded three-digit number.
 
 ## Metadata
 If `--no_metadata` option is not specified, the script generates a text file for each image containing metadata. The filename format is `data_xxx_metadata.txt`, where `xxx` is a zero-padded three-digit number. The metadata includes the following information:
